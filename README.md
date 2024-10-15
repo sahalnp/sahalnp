@@ -1,4 +1,4 @@
-### <div align="center">I'm Muhammed Sahal a full-time Full-stack  developer</div>  
+### <div align="center">I'm Muhammed Sahal a full-time full-stack  developer</div>  
   
 
 - 🌱 I’m currently learning MERN   
