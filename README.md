@@ -22,11 +22,7 @@
 
   <h3>🌐 Socials</h3>
 
-  <p align="left">
-    <a href="https://github.com/sahalnp">
-      <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-    </a>
-  </p>
+
 
   <img src="https://komarev.com/ghpvc/?username=sahalnp&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
@@ -69,13 +65,5 @@
   <img src="https://streak-stats.demolab.com?user=sahalnp&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
----
 
-## ❤️ Support Me
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
-  </a>
-</p>
 
